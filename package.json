@@ -1,5 +1,5 @@
 {
-    "name": "node-storage.js",
+    "name": "node-file-storage",
     "version": "1.0.0",
     "description": "A common storage for local and cloud",
     "main": "src/index.js",
